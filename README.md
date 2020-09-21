@@ -6,7 +6,6 @@ This will serve to track learnings.
 ***
 
 ##### 21 September 2020
-<hr>
 
 Today's topic is communication pattern in iOS.
 1. https://www.objc.io/issues/7-foundation/communication-patterns/
@@ -16,4 +15,5 @@ Today's topic is communication pattern in iOS.
 5. https://nalexn.github.io/callbacks-part-3-promise-event-stream/
 6. https://khanlou.com/2013/12/kvo-considered-harmful/
 
+***
 

@@ -6,7 +6,8 @@ This will serve to track learnings.
 ***
 
 ##### 21 September 2020
-___
+<hr>
+
 Today's topic is communication pattern in iOS.
 1. https://www.objc.io/issues/7-foundation/communication-patterns/
 2. https://www.objc.io/issues/7-foundation/key-value-coding-and-observing/

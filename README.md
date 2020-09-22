@@ -16,4 +16,12 @@ Today's topic is communication pattern in iOS.
 6. https://khanlou.com/2013/12/kvo-considered-harmful/
 
 ***
+##### 22 September 2020
+
+###### Non-tech:
+1. https://medium.com/s/story/how-to-be-polite-9bf1e69e888c
+
+###### Tech:
+
+***
 

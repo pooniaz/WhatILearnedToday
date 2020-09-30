@@ -1,4 +1,6 @@
-# WhatILearnedToday
+
+
+# This is moved to manishpunia.com as a post.
 
 Here idea is to listing learning everyday. most of these will be related to tech, mostly these will be links to readings. it is possible later poin of time those are dead link.
 This will serve to track learnings.
